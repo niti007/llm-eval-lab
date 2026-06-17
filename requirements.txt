@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+openai
+langfuse
+python-dotenv
+redis
+numpy
+sentence-transformers
+prometheus-fastapi-instrumentator
+prometheus-client
+tiktoken
+pydantic
+httpx
